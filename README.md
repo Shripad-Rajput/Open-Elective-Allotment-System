@@ -1,5 +1,6 @@
 # Open-elective-allotment-system
 This is simple project using data analysis to perform open elective subject allocation in engineering colleges. 
+This project id created by [@TejasVarute](https://github.com/TejasVarute) and i am collable with him.
 
 **What is open elective subject in engineering ?**
 
